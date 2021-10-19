@@ -1,0 +1,19 @@
+.login{
+    width:100px;
+    margin-left: 50px;
+    justify-content: center;
+}
+.set-log{
+    margin-left: 500px;
+    margin-top: 50px;
+    font-size: 25px;
+    padding-bottom: 30px;
+}
+.btn-group{
+    display: flex;
+}
+@media only screen and (max-width:500px){
+.login{
+    margin-left: 150px;
+}
+}

@@ -1,0 +1,64 @@
+{
+    "service":[
+    {
+      "id":90999568,
+      "name": "Eye Care",
+      "img":"https://d26ua9paks4zq.cloudfront.net/c8/4d/5ab0c2524a16bf71731ccc65e8fb/ophthalm-ftb-isbu-738x399-stk-1619069.jpg",
+      "description":"Well we’re movin’ on up, to the east side. To a deluxe apartment in the sky."
+      
+    },
+    {
+      "id":90989569,
+      "name": "Nephrologist Care",
+      "img":"https://photos.demandstudios.com/getty/article/88/35/86516499_XS.jpg",
+      "description":"New authentic care is on in our center for patient."
+      
+    },
+    {
+      "id":9099789,
+      "name": "Medical Counselling",
+      "img":"https://5.imimg.com/data5/MK/JS/GLADMIN-14723217/medical-counseling-500x500.png",
+      "description":"Counselling is the best way of frustration.This time we move on."
+      
+    },
+    {
+      "id":90956568,
+      "name": "Pediatrician Care",
+      "img":"https://purewows3.imgix.net/images/articles/2017_08/Pediatrician-checking-baby_s-heart-beat.jpg?auto=format,compress&cs=strip",
+      "description":"All the child care is started in our clinic so far its start last day ago"
+
+
+     
+    },
+    {
+      "id":90993338,
+      "name": "Dental",
+      "img":"https://ichef.bbci.co.uk/news/640/cpsprodpb/C9DA/production/_107047615_dentist2.jpg",
+      "description":"Dental care is supported in our clinic.You can join is this care"
+      
+    },
+    {
+      "id":90123568,
+      "name": "Prenatal Care",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWbD3w0ZyId5w3wcigV1dsnlzr-g3zidELhV9KDXEWwlmLqqEo4oGtnVDDxwMZTqJ5XA&usqp=CAU",
+      "description":"Women care is also important than other care also child care is started "
+     
+    },
+    {
+      "id":90199568,
+      "name": "Eldery Care",
+      "img":"https://i.dlpng.com/static/png/7245366_preview.png",
+      "description":"Older people caring is important.So we started for this care."
+      
+    },
+    {
+      "id":9099590,
+      "name": "Psychological Care",
+      "img":"https://cdn.flintrehab.com/uploads/2019/12/psychological-care-after-stroke-e1577145048570.jpg",
+      "description":"All Psychological therapy is given in our center.We care our patient."
+      
+    }
+]
+}
+    
+    

@@ -3,21 +3,27 @@ import { useParams } from 'react-router';
 
 const Details = () => {
     const {serviceId}=useParams()
-    const [data,setData]=useState([]);
+    const [user,setUser]=useState([]);
+    const [single,setSingle]=useState([])
+    
     useEffect(()=>{
         fetch('/info.json')
          .then(res=>res.json())
-        .then(data=>setData(data[0]))
+        .then(data=>setUser(data))
     },[])
-   let ExactItem= data.filter(pd=>pd.id===serviceId);
-   
-    console.log(ExactItem[0])
-    return (
+  useEffect(()=>{
+    const foundUse=user.find(service=>service.id ==serviceId)
+
+    setSingle(foundUse)
+  },[user])
+    
+   return (
         <div>
            <h2>{serviceId}</h2>
-            <img src={ExactItem?.img} alt="" />
-            <h3>Name: {ExactItem?.name}</h3>
-            <p>{data?.description}</p>
+           <img src={single?.img} alt="" />
+           <h1>{single?.name}</h1>
+           <p>{single?.description}</p>
+            
         </div>
     );
 };
