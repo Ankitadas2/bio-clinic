@@ -23,7 +23,7 @@ const Footer = () => {
                     <h4>Details</h4>
                     <ul>
                         <li><Link>Payment </Link></li>
-                        <li><Link>Admission </Link></li>
+                        <li><Link>Doctors </Link></li>
                         <li><Link>Faq </Link></li>
                         <li><Link>Guidlines </Link> </li>
                     </ul>
@@ -31,7 +31,7 @@ const Footer = () => {
                     <div className="footer-col">
                     <h4>Destination</h4>
                     <ul>
-                        <li><Link>Language teaching </Link></li>
+                        <li><Link>Subscription </Link></li>
                     </ul>
                     </div>
                     <div className="footer-col">

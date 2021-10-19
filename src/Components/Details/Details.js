@@ -18,12 +18,12 @@ const Details = () => {
   },[user])
     
    return (
-        <div>
-           <h2>{serviceId}</h2>
+        <div className="container">
+           <div className="mx-5 px-5 mt-5 pb-5">
            <img src={single?.img} alt="" />
            <h1>{single?.name}</h1>
            <p>{single?.description}</p>
-            
+           </div>
         </div>
     );
 };
