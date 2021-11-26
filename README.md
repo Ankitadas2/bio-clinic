@@ -11,7 +11,8 @@
  <!-- Benfits of this website -->
  * This website create all information of this hospital
  * Its helps all the paitient who want to knows all the details
- * All the information is given this website.
+ * At first users should be logged in.
+ * Then user can see the details of services which is need for themself.
 
 
 
